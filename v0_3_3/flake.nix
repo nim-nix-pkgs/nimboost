@@ -11,7 +11,6 @@
   inputs.src-nimboost-v0_3_3.ref   = "refs/tags/v0.3.3";
   inputs.src-nimboost-v0_3_3.owner = "vegansk";
   inputs.src-nimboost-v0_3_3.repo  = "nimboost";
-  inputs.src-nimboost-v0_3_3.dir   = "";
   inputs.src-nimboost-v0_3_3.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -11,7 +11,6 @@
   inputs.src-nimboost-v0_5_5.ref   = "refs/tags/v0.5.5";
   inputs.src-nimboost-v0_5_5.owner = "vegansk";
   inputs.src-nimboost-v0_5_5.repo  = "nimboost";
-  inputs.src-nimboost-v0_5_5.dir   = "";
   inputs.src-nimboost-v0_5_5.type  = "github";
   
   inputs."patty".owner = "nim-nix-pkgs";

@@ -11,7 +11,6 @@
   inputs.src-nimboost-master.ref   = "refs/heads/master";
   inputs.src-nimboost-master.owner = "vegansk";
   inputs.src-nimboost-master.repo  = "nimboost";
-  inputs.src-nimboost-master.dir   = "";
   inputs.src-nimboost-master.type  = "github";
   
   inputs."patty".owner = "nim-nix-pkgs";
